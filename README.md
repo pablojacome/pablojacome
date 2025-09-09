@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Pablo Jácome  
 
-<!--
-**pablojacome/pablojacome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Business Intelligence Analyst | Data Analyst**  
+Transforming data into insights that drive strategy, efficiency, and innovation.  
 
-Here are some ideas to get you started:
+📌 **About me**  
+I have 8+ years of professional experience combining a strong background in **Chemical Engineering**, an **MBA in Business Intelligence**, and a **Data Analytics Bootcamp**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Tech stack**  
+- Python (pandas, matplotlib, scipy, numpy)  
+- SQL, R, Excel  
+- Data visualization: Power BI, Tableau, Seaborn, Plotly  
+- Version control: Git, GitHub  
+
+🚀 **What I do**  
+- Data analysis & business insights  
+- Hypothesis testing & A/B testing  
+- KPI dashboards & BI reports  
+- Process optimization with data  
+
+🔗 **Let’s connect**  
+[LinkedIn](https://www.linkedin.com/in/pablo-jacome-data-analyst-6sigma)  
