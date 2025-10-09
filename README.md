@@ -4,7 +4,7 @@
 Transforming data into insights that drive strategy, efficiency, and innovation.  
 
 📌 **About me**  
-I have 8+ years of professional experience combining a strong background in **Chemical Engineering**, an **MBA in Business Intelligence**, and a **Data Analytics Bootcamp**.  
+I have many years of professional experience combining a strong background in **Chemical Engineering**, an **MBA in Business Intelligence**, and a **Data Analytics Bootcamp**.  
 
 📊 **Tech stack**  
 - Python (pandas, matplotlib, scipy, numpy)  
