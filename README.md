@@ -15,8 +15,8 @@ I combine analytical thinking with a solid understanding of operations, sales, a
 ## 🧭 About Me
 
 - 🌎 Based in **Quito, Ecuador**  
-- 💼 Currently working as **Head of Sales – Foam Line at Chaide**, applying data analysis to improve forecasting, efficiency, and customer satisfaction  
-- 🎓 Holding an **MBA in Business Intelligence** and completing a **Data Analytics Bootcamp** focused on Python, SQL, and Power BI  
+- 💼 Currently working as **Head of Sales**, applying data analysis to improve forecasting, efficiency, and customer satisfaction  
+- 🎓 Holding an **MBA in Business Intelligence** and a **Data Analytics Certificate** focused on Python, SQL, and Power BI  
 - 💡 Experienced in bridging business and technical teams to align strategy, processes, and analytics  
 - 🚀 Passionate about **business process optimization, data visualization, and decision intelligence**
 
