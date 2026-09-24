@@ -7,14 +7,14 @@
 # 👋 Hi, I'm Pablo Jácome
 
 Welcome to my GitHub profile!  
-I’m a **Chemical Engineer, Business Analyst, and MBA in Business Intelligence** passionate about transforming data into actionable business insights.  
+I’m a **Chemical Engineer, Sales Ops Analyst, and MBA in Business Intelligence** passionate about transforming data into actionable business insights.  
 I combine analytical thinking with a solid understanding of operations, sales, and process optimization to help organizations make smarter, data-driven decisions.
 
 ---
 
 ## 🧭 About Me
 
-- 🌎 Based in **Quito, Ecuador**  
+- 🌎 Based in **São Paulo, Brazil**  
 - 💼 Currently working as **Head of Sales**, applying data analysis to improve forecasting, efficiency, and customer satisfaction  
 - 🎓 Holding an **MBA in Business Intelligence** and a **Data Analytics Certificate** focused on Python, SQL, and Power BI  
 - 💡 Experienced in bridging business and technical teams to align strategy, processes, and analytics  
@@ -72,7 +72,7 @@ I combine analytical thinking with a solid understanding of operations, sales, a
 ## 📫 Let's Connect!
 
 - ✉️ **Email:** [pabdanjs@gmail.com](mailto:pabdanjs@gmail.com)  
-- 🌐 **LinkedIn:** [linkedin.com/in/pablo-jacome-data-analyst-6sigma](https://www.linkedin.com/in/pablo-jacome-data-analyst-6sigma)  
+- 🌐 **LinkedIn:** [linkedin.com/in/pablo-jacome-dan](https://www.linkedin.com/in/pablo-jacome-dan)  
 - 💼 **Portfolio:** [pablojacome.github.io](https://pablojacome.github.io)  
 
 ---
